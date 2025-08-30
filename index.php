@@ -153,11 +153,11 @@
                 </div>
 
                 <div class="card card-user-story">
-                    <div class="card-header">María García</div>
+                    <div class="card-header">Adrian Elias Guanoluisa Lozada </div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> usuario registrado,</p>
-                        <p><span class="keyword">Quiero</span> restablecer mi contraseña,</p>
-                        <p><span class="keyword">Para</span> recuperar el acceso a mi cuenta.</p>
+                        <p><span class="keyword">Como</span> Scrum master,</p>
+                        <p><span class="keyword">Quiero</span> registrar a todos los usuarios provedores,</p>
+                        <p><span class="keyword">Para</span> tener un base de datos de vendedores.</p>
                     </div>
                 </div>
 
