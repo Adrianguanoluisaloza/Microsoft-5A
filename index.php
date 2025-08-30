@@ -156,8 +156,8 @@
                     <div class="card-header">Adrian Elias Guanoluisa Lozada </div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> Scrum master,</p>
-                        <p><span class="keyword">Quiero</span> registrar a todos los usuarios provedores,</p>
-                        <p><span class="keyword">Para</span> tener un base de datos de vendedores.</p>
+                        <p><span class="keyword">Quiero</span> registrar a todos los usuarios vendores,</p>
+                        <p><span class="keyword">Para</span> tener un base de datos de vendedores y despues clientes.</p>
                     </div>
                 </div>
 
