@@ -115,8 +115,7 @@
         
         .card-design-interface .card-description {
             font-style: italic;
-            color: #777;
-            margin-bottom: 5px;
+            color: #40E0D0;
         }
 
         .card-design-interface .card-author {
@@ -180,11 +179,11 @@
                 </div>
 
                 <div class="card card-user-story">
-                    <div class="card-header">Pedro Gómez</div>
+                    <div class="card-header">Lely Alvarado </div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> cliente,</p>
-                        <p><span class="keyword">Quiero</span> dejar una reseña en un producto,</p>
-                        <p><span class="keyword">Para</span> compartir mi opinión con otros usuarios.</p>
+                        <p><span class="keyword">Como</span> Desarollador,</p>
+                      <p><span class="keyword">Quiero</span> tener un control  de visita los proveedores ,</p>
+                        <p><span class="keyword">Para</span> compar los productos sin q los demas proveedores se crusen.</p>
                     </div>
                 </div>
                 
