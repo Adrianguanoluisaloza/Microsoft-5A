@@ -171,11 +171,11 @@
                 </div>
                 
                 <div class="card card-user-story">
-                    <div class="card-header">Ana Torres</div>
+                    <div class="card-header">Angel Tadeo Ballesteros Villegas</div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> visitante del sitio,</p>
-                        <p><span class="keyword">Quiero</span> buscar productos por categoría,</p>
-                        <p><span class="keyword">Para</span> encontrar lo que necesito más rápido.</p>
+                        <p><span class="keyword">Como</span> desarrollador,</p>
+                        <p><span class="keyword">Quiero</span> implementar el módulo de búsqueda, carrito de compras y pasarela de pago,</p>
+                        <p><span class="keyword">Para</span> que los compradores puedan encontrar productos, agregarlos al carrito y realizar pagos en línea de forma segura.</p>
                     </div>
                 </div>
 
