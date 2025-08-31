@@ -161,12 +161,12 @@
                     </div>
                 </div>
 
-                <div class="card card-user-story">
-                    <div class="card-header">Carlos López</div>
+                <div class="card card-user-story" style="background-color: #90EE90;">
+                    <div class="card-header">david corozo</div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> administrador,</p>
-                        <p><span class="keyword">Quiero</span> agregar nuevos productos al inventario,</p>
-                        <p><span class="keyword">Para</span> mantener la tienda actualizada.</p>
+                        <p><span class="keyword">Como</span> administrador de base de datos ,</p>
+                        <p><span class="keyword">Quiero</span> poder realizar copias de seguridad automática ,</p>
+                        <p><span class="keyword">Para</span> garantizar la integridad y recuperación de la información en caso de fallosa.</p>
                     </div>
                 </div>
                 
