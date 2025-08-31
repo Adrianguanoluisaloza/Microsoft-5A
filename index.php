@@ -144,10 +144,10 @@
             <h2>Historias de usuario</h2>
             <div class="cards-grid">
                 <div class="card card-user-story" style="background-color: lightblue;">
-                    <div class="card-header">Alex Franco</div>
+                    <div class="card-header">Alex Geovanny Franco Franco</div>
                     <div class="card-body">
-                        <p><span class="keyword">Como</span> estudiante,</p>
-                        <p><span class="keyword">Quiero</span> poder ver mi historial de compras,</p>
+                        <p><span class="keyword">Como</span> consumidor,</p>
+                        <p><span class="keyword">Quiero</span> poder acceder y observar a detalle mi historial de compras,</p>
                         <p><span class="keyword">Para</span> llevar un registro de mis gastos.</p>
                     </div>
                 </div>
