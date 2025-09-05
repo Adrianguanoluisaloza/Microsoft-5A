@@ -153,6 +153,7 @@
     <header>
         <h1>Sistema de Comercio Universitario Transacción Interna</h1>
         <p id="sub-header">Historias y Diseños de Usuarios</p>
+        <p id="sub-header">Community</p>
     </header>
 
     <main class="content-section">
@@ -207,7 +208,7 @@
                     { title: "Evaluar Rendimiento", asA: "Como Scrum master", iWantTo: "generar reportes de rendimiento del equipo", soThat: "para identificar áreas de mejora y celebrar los logros." }
                 ],
                 interfaces: [
-                    { image: "https://via.placeholder.com/300/3498db/FFFFFF?text=Interfaz+de+Scrum+Master", description: "Prototipo del panel de control para un Scrum Master, mostrando el estado de los proyectos y las tareas del equipo.", author: "Adrian Guanoluisa" }
+                    { image: "img/registrar.png", description: "Prototipo del panel de control para un Scrum Master, mostrando el estado de los proyectos y las tareas del equipo.", author: "Adrian Guanoluisa" }
                 ]
             },
             "tadeo-ballesteros": {
@@ -221,7 +222,7 @@
                     { title: "Comunicar Novedades", asA: "Como administrador", iWantTo: "enviar notificaciones masivas a los usuarios", soThat: "para informar sobre actualizaciones, promociones o eventos." }
                 ],
                 interfaces: [
-                    { image: "https://via.placeholder.com/300/2ecc71/FFFFFF?text=Interfaz+de+Administrador", description: "Diseño del panel de administración, con acceso a herramientas de gestión de inventario, usuarios y reportes.", author: "Carlos López" }
+                    { image: "img/administrador.png", description: "Registro de  usuario ejemplo  del panel de administración", author: "Tadeo Ballesteros" }
                 ]
             },
             "lely-alvarado": {
@@ -235,7 +236,7 @@
                     { title: "Recuperar Contraseña", asA: "Como usuario", iWantTo: "poder recuperar mi contraseña si la olvido", soThat: "para no perder el acceso a mi cuenta." }
                 ],
                 interfaces: [
-                    { image: "https://via.placeholder.com/300/e74c3c/FFFFFF?text=Interfaz+de+Visitante", description: "Diseño de la página de productos, optimizado para la búsqueda por categorías y visualización de detalles, según la historia de Ana.", author: "Ana Torres" }
+                    { image: "img/Producto.png", description: "Diseño de la página de productos.", author: "Lely Alvarado" }
                 ]
             },
             "david-corozo": {
@@ -249,23 +250,10 @@
                     { title: "Consultar Calificaciones", asA: "Como cliente", iWantTo: "acceder a mis calificaciones de forma rápida y sencilla", soThat: "para monitorear mi rendimiento académico." }
                 ],
                 interfaces: [
-                    { image: "https://via.placeholder.com/300/f39c12/FFFFFF?text=Interfaz+de+Cliente", description: "Interfaz del perfil de usuario con acceso rápido a su historial y configuraciones.", author: "Pedro Gómez" }
+                    { image: "img/Cliente.png", description: "Interfaz del perfil de usuario.", author: "David Corozo" }
                 ]
             },
-            "laura-diaz": {
-                name: "Laura Díaz",
-                role: "Desarrollador",
-                stories: [
-                    { title: "API de Pagos", asA: "Como desarrollador", iWantTo: "una API de pagos segura", soThat: "para procesar transacciones de manera confiable." },
-                    { title: "Herramientas de Depuración", asA: "Como desarrollador", iWantTo: "acceder a herramientas de depuración integradas", soThat: "para solucionar errores rápidamente." },
-                    { title: "Documentación Clara", asA: "Como desarrollador", iWantTo: "tener documentación clara de la API", soThat: "para integrar el sistema sin problemas." },
-                    { title: "Monitoreo del Sistema", asA: "Como desarrollador", iWantTo: "monitorear el rendimiento del sistema en tiempo real", soThat: "para asegurar su estabilidad y disponibilidad." },
-                    { title: "Acceso a la Base de Datos", asA: "Como desarrollador", iWantTo: "acceder a la base de datos de forma controlada", soThat: "para realizar tareas de mantenimiento y migración." }
-                ],
-                interfaces: [
-                    { image: "https://via.placeholder.com/300/9b59b6/FFFFFF?text=Interfaz+de+Desarrollador", description: "Diseño de notificaciones y mensajes de confirmación para el desarrollador.", author: "Laura Díaz" }
-                ]
-            }
+           
         };
 
         const profilesView = document.getElementById('profiles-view');
