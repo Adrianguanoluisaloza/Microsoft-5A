@@ -208,7 +208,7 @@
                     { title: "Evaluar Rendimiento", asA: "Como Scrum master", iWantTo: "generar reportes de rendimiento del equipo", soThat: "para identificar áreas de mejora y celebrar los logros." }
                 ],
                 interfaces: [
-                    { image: "img/registrar.png", description: "Prototipo del panel de control para un Scrum Master, mostrando el estado de los proyectos y las tareas del equipo.", author: "Adrian Guanoluisa" }
+                    { image: "img/Registrar.jpg", description: "Registrar Vendedores", author: "Adrian Guanoluisa" }
                 ]
             },
             "tadeo-ballesteros": {
