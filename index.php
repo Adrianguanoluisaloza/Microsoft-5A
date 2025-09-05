@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
+            background-color: #F4E1D2;
             margin: 0;
             padding: 20px;
             display: flex;
@@ -22,7 +22,7 @@
         }
 
         h1 {
-            color: #333;
+            color: #6B4C3B;
             font-size: 2.5em;
         }
 
@@ -34,7 +34,7 @@
 
         .content-section h2 {
             text-align: center;
-            color: #555;
+            color: #6B4C3B;
             font-size: 2em;
             margin-bottom: 20px;
         }
@@ -46,7 +46,7 @@
         }
         
         .profile-card, .action-card {
-            background-color: #fff;
+            background-color: #A8A7A7;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             padding: 20px;
@@ -67,12 +67,12 @@
         }
         
         .profile-card p {
-            color: #7f8c8d;
+            color: #FFFFFF;
             font-style: italic;
         }
 
         .action-card h3 {
-            color: #2980b9;
+            color: #6B4C3B;
             margin: 0;
             font-size: 1.4em;
         }
@@ -102,7 +102,7 @@
         
         .card-user-story .card-body .keyword {
             font-weight: bold;
-            color: #007BFF;
+            color: #6B4C3B;
         }
 
         /* Estilos específicos para diseño de interfaces */
@@ -136,7 +136,7 @@
             display: inline-block;
             margin-bottom: 20px;
             padding: 10px 20px;
-            background-color: #3498db;
+            background-color: #6B4C3B;
             color: #fff;
             text-decoration: none;
             border-radius: 5px;
@@ -210,8 +210,8 @@
                     { image: "https://via.placeholder.com/300/3498db/FFFFFF?text=Interfaz+de+Scrum+Master", description: "Prototipo del panel de control para un Scrum Master, mostrando el estado de los proyectos y las tareas del equipo.", author: "Adrian Guanoluisa" }
                 ]
             },
-            "carlos-lopez": {
-                name: "Carlos López",
+            "tadeo-ballesteros": {
+                name: "Tadeo Ballesteros",
                 role: "Administrador",
                 stories: [
                     { title: "Gestionar Inventario", asA: "Como administrador", iWantTo: "agregar nuevos productos al inventario", soThat: "para mantener la tienda actualizada." },
@@ -224,8 +224,8 @@
                     { image: "https://via.placeholder.com/300/2ecc71/FFFFFF?text=Interfaz+de+Administrador", description: "Diseño del panel de administración, con acceso a herramientas de gestión de inventario, usuarios y reportes.", author: "Carlos López" }
                 ]
             },
-            "ana-torres": {
-                name: "Ana Torres",
+            "lely-alvarado": {
+                name: "Lely Alvarado",
                 role: "Visitante del Sitio",
                 stories: [
                     { title: "Buscar Productos", asA: "Como visitante del sitio", iWantTo: "buscar productos por categoría", soThat: "para encontrar lo que necesito más rápido." },
@@ -238,8 +238,8 @@
                     { image: "https://via.placeholder.com/300/e74c3c/FFFFFF?text=Interfaz+de+Visitante", description: "Diseño de la página de productos, optimizado para la búsqueda por categorías y visualización de detalles, según la historia de Ana.", author: "Ana Torres" }
                 ]
             },
-            "pedro-gomez": {
-                name: "Pedro Gómez",
+            "david-corozo": {
+                name: "David Corozo",
                 role: "Cliente",
                 stories: [
                     { title: "Ver Historial de Compras", asA: "Como cliente", iWantTo: "poder ver mi historial de compras", soThat: "para llevar un registro de mis gastos." },
