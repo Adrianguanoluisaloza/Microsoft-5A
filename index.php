@@ -193,7 +193,7 @@
                     { title: "Buscar Recursos", asA: "Como estudiante", iWantTo: "buscar materiales de estudio y bibliografía de mis cursos", soThat: "para preparar mis clases eficientemente." }
                 ],
                 interfaces: [
-                    { image: "img/loginprueba.png", description: "Diseño del login, con opciones de recuperar contraseña y crear nuevo usuario.", author: "Alex Franco" }
+                    { image: "img/loginprueba.png", description: "Diseño del login, instrucciones intuitivas por medio de placeholders con opciones de recuperar contraseña y crear nuevo usuario.", author: "Geovanny Franco" }
                 ]
             },
             "adrian-guanoluisa": {
