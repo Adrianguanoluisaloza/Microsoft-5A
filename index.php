@@ -223,9 +223,9 @@
                 ],
                 interfaces: [
 
-                    { image: "img/administrador.png", description: "Registro de  usuario ejemplo  del panel de administración", author: "Tadeo Ballesteros" }
+                    
 
-                    { image: "img/Login_de_Spotify.png", description: "Registro de  usuario ejemplo  del panel de administración", author: "Tadeo Ballesteros" }
+                    { image: "img/Login_de_Spotify.jpg", description: "Registro de  usuario ejemplo  del panel de administración", author: "Tadeo Ballesteros" }
                 ]
             },
             "lely-alvarado": {
